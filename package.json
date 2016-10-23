@@ -1,0 +1,19 @@
+{
+  "name": "level-money",
+  "version": "1.0.0",
+  "description": "evaluate all transactions in terms of level-money data",
+  "main": "level-money.js",
+  "dependencies": {
+    "moment": "^2.15.1",
+    "request": "^2.75.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "transaction"
+  ],
+  "author": "hai sun",
+  "license": "ISC"
+}
